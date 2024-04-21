@@ -8,7 +8,7 @@ Also, the way the image and text grow and shrink is not by using `flex: (option)
 
 ## Credit
 Some images used in this project are found online. Here are the sources:
-- [Neuvillette] (https://dotesports.com/wp-content/uploads/2023/09/Neuvillette-elemental-burst-genshin-impact.png)
-- [Kazuha] (https://www.escapistmagazine.com/wp-content/uploads/2023/06/Kazuha_Genshin_Impact.jpg)
-- [Kokomi] (https://cdn.oneesports.gg/cdn-data/2021/09/GenshinImpact_Kokomi_Materials_featured_image-2000x1125.jpg)
-- [Arlecchino] (https://www.dexerto.com/cdn-cgi/image/width=3840,quality=60,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/07/04/Arlecchino-Genshin-Impact-expected-Release-date.jpg)
+- [Neuvillette](https://dotesports.com/wp-content/uploads/2023/09/Neuvillette-elemental-burst-genshin-impact.png)
+- [Kazuha](https://www.escapistmagazine.com/wp-content/uploads/2023/06/Kazuha_Genshin_Impact.jpg)
+- [Kokomi](https://cdn.oneesports.gg/cdn-data/2021/09/GenshinImpact_Kokomi_Materials_featured_image-2000x1125.jpg)
+- [Arlecchino](https://www.dexerto.com/cdn-cgi/image/width=3840,quality=60,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/07/04/Arlecchino-Genshin-Impact-expected-Release-date.jpg)
